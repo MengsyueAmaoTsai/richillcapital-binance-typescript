@@ -1,0 +1,13 @@
+{
+  "name": "richillcapital-binance",
+  "version": "1.0.0",
+  "description": "Binance Exchange API SDK for TypeScript",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.js",
+  "scripts": {
+    "build": "tsc",
+    "release": "tsc && npm publish"
+  },
+  "author": "Mengsyue Amao Tsai <mengsyue.tsai@outlook.com>",
+  "license": "MIT"
+}
